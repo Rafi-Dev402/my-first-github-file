@@ -1,0 +1,18 @@
+div{
+    color: black;
+    background-color: antiquewhite;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: initial;
+    text-align: center;
+    text-decoration: overline crimson;
+    /* width: 5px;
+    height: 5px; */
+    border: 10px solid violet;
+    border-style:   solid;
+    border-radius: 500px;
+    padding: 8px;
+    margin: 5px 200px;
+    /* position: sticky; */
+    display: block;
+}
